@@ -1,4 +1,4 @@
-https://jdanellhebert.github.io/PathTracing-Renderer/
+https://jdaniellhebert.github.io/PathTracing-Renderer/
 
 # THREE.js-PathTracing-Renderer
 Real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework. <br>
